@@ -1,0 +1,17 @@
+[Desktop Entry]
+Name=Ukrainian bookkeeping suite of programs iceBw
+Name[en_CA]=Ukrainian bookkeeping suite of programs iceBw
+Name[en_GB]=Ukrainian bookkeeping suite of programs iceBw
+Name[uk]=Адміністрування системи iceBw
+Name[ru]=Администрирование системы iceBw
+GenericName=Ukrainian bookkeeping suite of programs iceBw
+GenericName[ru]=Администрирование комплекса бухгалтерских программ iceBw
+GenericName[uk]=Адміністрування комплексу бухгалтерських програм iceBw
+Comment=Ukrainian bookkeeping suite of programs iceBw
+Comment[uk]=Створення баз даних, встановлення прав доступу для роботи з комплексом бухгалтерських програм iceBw (графический интерфейс)
+Comment[ru]=Создание баз данных, установка прав доступа для рабоы с комплексом бухгалтерских программ iceBw (графический интерфейс)
+Exec=i_admin
+Terminal=0
+Type=Application
+Icon=i_admin.png
+Categories=Office;

@@ -1,0 +1,79 @@
+#22.03.2017
+rm ./libbuh_g/iceb_nn7*.cpp
+#23.05.2018
+rm ./libbuh_g/iceb_l_rsfr.cpp
+#07.12.2018
+rm ./libbuh_g/iceb_nn8_end.cpp
+rm ./libbuh_g/iceb_nn8_hap.cpp
+rm ./libbuh_g/iceb_nn8_start.cpp
+rm ./libbuh_g/iceb_nn8_start_v.cpp
+rm ./libbuh_g/iceb_nn8_start_s.cpp
+rm ./libbuh_g/iceb_nn8_str.cpp
+rm ./libbuh_g/iceb_nn8_end_xml.cpp
+rm ./libbuh_g/iceb_nn8_zag_xml.cpp
+rm ./libbuh_g/iceb_nn8_str_xml.cpp
+rm ./libbuh_g/iceb_nn9_end_xml.cpp
+rm ./libbuh_g/iceb_nn9_zag_xml.cpp
+rm ./libbuh_g/iceb_nn9_str_xml.cpp
+#24.10.2019
+rm ./buhg_g/zvb_ibank2ua_start_v.cpp
+rm ./buhg_g/zvb_ibank2ua.h
+
+
+files="arhivicebw extractw \
+CMakeLists.txt CHANGES READMI.TXT \
+*.h \
+./buhg_g/*.cpp \
+./buhg_g/*.h \
+./buhg_g/CMakeLists.txt \
+./libutil_g/*.cpp \
+./libutil_g/*.h \
+./libutil_g/CMakeLists.txt \
+./libbuh_g/*.cpp \
+./libbuh_g/*.h \
+./libbuh_g/CMakeLists.txt \
+./libsql/*.cpp \
+./libsql/*.h \
+./libsql/CMakeLists.txt \
+./locale/uk_ru \
+./locale/uk_uk \
+./locale/*.po \
+./additionally/*.cpp \
+./additionally/*.h \
+./additionally/*.xpm \
+./additionally/CMakeLists.txt \
+./additionally/alx/*.alx \
+./xpm/*.xpm \
+./xpm/*.png \
+./util/CMakeLists.txt \
+./util/*.cpp \
+./util/*.txt \
+./desktop"
+
+
+
+tar cvfj iceBw.tar.bz2 $files
+#tar cvfM /dev/fd0 iceBw.tar.bz2
+#tar cvfz iceBw.tgz $files
+#tar cvfM /dev/fd0 iceBw.tgz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

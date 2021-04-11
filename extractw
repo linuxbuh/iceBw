@@ -1,0 +1,25 @@
+#22.03.2017
+rm ./libbuh_g/iceb_nn7*.cpp
+#23.05.2018
+rm ./libbuh_g/iceb_l_rsfr.cpp
+#07.12.2018
+rm ./libbuh_g/iceb_nn8_end.cpp
+rm ./libbuh_g/iceb_nn8_hap.cpp
+rm ./libbuh_g/iceb_nn8_start.cpp
+rm ./libbuh_g/iceb_nn8_start_v.cpp
+rm ./libbuh_g/iceb_nn8_start_s.cpp
+rm ./libbuh_g/iceb_nn8_str.cpp
+rm ./libbuh_g/iceb_nn8_end_xml.cpp
+rm ./libbuh_g/iceb_nn8_zag_xml.cpp
+rm ./libbuh_g/iceb_nn8_str_xml.cpp
+rm ./libbuh_g/iceb_nn9_end_xml.cpp
+rm ./libbuh_g/iceb_nn9_zag_xml.cpp
+rm ./libbuh_g/iceb_nn9_str_xml.cpp
+#24.10.2019
+rm ./buhg_g/zvb_ibank2ua_start_v.cpp
+rm ./buhg_g/zvb_ibank2ua.h
+
+#tar xvfM /dev/fd0
+#bzip -d iceBw.tar.bz2
+#tar xvf iceBw.tar
+tar xvfj iceBw.tar.bz2

@@ -1,0 +1,18 @@
+[Desktop Entry]
+Name=Ukrainian bookkeeping suite of programs iceBw
+Name[en_CA]=Ukrainian bookkeeping suite of programs iceBw
+Name[en_GB]=Ukrainian bookkeeping suite of programs iceBw
+Name[uk]=Бухгалтерский облік iceBw
+Name[ru]=Бухгалтерский учёт iceBw
+GenericName=Ukrainian bookkeeping suite of programs iceBw
+GenericName[ru]=Комплекс бухгалтерских программ iceBw
+GenericName[uk]=Комплекс бухгалтерських програм iceBw
+Comment=Ukrainian bookkeeping suite of programs iceBw
+Comment[uk]=Комплекс бухгалтерських програм iceBw (графический интерфейс)
+Comment[ru]=Комплекс бухгалтерских программ iceBw (графический интерфейс)
+Exec=i_start
+Terminal=0
+Type=Application
+Icon=i_start.png
+Categories=Office;
+StartupNotify=true
